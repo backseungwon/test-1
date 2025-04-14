@@ -1,3 +1,5 @@
+![프로필 이미지](./0002866346_001_20200209163204923](https://github.com/user-attachments/assets/3b4e6d70-b1a2-4017-bfaf-2ed6e33e216e)
+
 # README 파일이란?
 
 이곳은 *저장소에 대한 설명*을 작성합니다.
