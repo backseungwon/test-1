@@ -1,4 +1,4 @@
-![프로필 이미지](./0002866346_001_20200209163204923](https://github.com/user-attachments/assets/3b4e6d70-b1a2-4017-bfaf-2ed6e33e216e)
+![프로필 이미지](./0002866346_001_20200209163204923https://github.com/user-attachments/assets/3b4e6d70-b1a2-4017-bfaf-2ed6e33e216e)
 
 # README 파일이란?
 
